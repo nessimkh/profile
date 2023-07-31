@@ -1,0 +1,31 @@
+
+
+body{
+  background-color:azure;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:navy;
+  font-size:medium;
+  line-height:medium
+}
+h1 {
+  line-height:1cm
+}
+h2{
+  color:slategray
+}
+.container{
+  width: 800px;
+  margin: 0 auto;
+  text-align: center
+}
+
+.card{
+  border-top: 3px solid floralwhite ;
+  border-right: 3px solid floralwhite;
+  border-bottom: 3px solid floralwhite;
+  border-left: 3px solid floralwhite;
+  border-radius: 20px;
+  padding-bottom: 20px;
+  background-color:azure;
+  box-shadow: 70px 70px 70px navy;
+}
